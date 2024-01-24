@@ -1,4 +1,4 @@
-package in.regres.component;
+package in.reqres.component;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;

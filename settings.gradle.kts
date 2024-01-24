@@ -1,2 +1,2 @@
-rootProject.name = "regres-in"
+rootProject.name = "reqres-in"
 

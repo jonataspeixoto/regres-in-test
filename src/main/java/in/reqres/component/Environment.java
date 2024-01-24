@@ -1,4 +1,4 @@
-package in.regres.component;
+package in.reqres.component;
 
 import java.io.FileReader;
 import java.io.IOException;
