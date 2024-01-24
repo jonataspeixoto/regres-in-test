@@ -12,7 +12,7 @@ Este projeto contém testes automatizados em Java para o método "create" do sit
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/jonataspeixoto/reqres-in-test
    cd seu-repositorio
    ```
 2. **Configuração do Ambiente Gradle:**
@@ -24,7 +24,7 @@ Este projeto contém testes automatizados em Java para o método "create" do sit
    ```
 3. **Configuração de Variáveis de Ambiente:**
 
-Abra o arquivo `src/test/resources/application.properties` e ajuste as variáveis de ambiente conforme necessário.
+Abra o arquivo `src/test/resources/dev.properties` e ajuste as variáveis de ambiente conforme necessário.
 
 ## Executando os Testes
 Execute os testes usando o seguinte comando:
@@ -40,6 +40,6 @@ Execute o comando abaixo para visualizar o painel allure:
    ```bash
    ./gradlew allureServe
    ```
-Será aberta uma página em seu navegador. 
+Será aberta uma página em seu navegador.
 
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE.md para detalhes.
