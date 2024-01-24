@@ -32,6 +32,14 @@ Execute os testes usando o seguinte comando:
    ```bash
    ./gradlew test
    ```
-Os resultados dos testes serão exibidos no console, e você poderá verificar os relatórios de testes no diretório `build/reports/tests/test`.
+Os resultados dos testes serão exibidos no console.
+
+## Verificando Resultados
+Execute o comando abaixo para visualizar o painel allure:
+
+   ```bash
+   ./gradlew allureServe
+   ```
+Será aberta uma página em seu navegador. 
 
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE.md para detalhes.
