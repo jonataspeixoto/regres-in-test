@@ -1,6 +1,7 @@
 # Testes Automatizados para o Método "Create" - Regress.in
 
-gt
+Este projeto contém testes automatizados em Java para o método "create" do site regress.in. Utiliza Java 21 e Gradle com Kotlin para automação de testes.
+
 ## Configuração do Ambiente
 
 ### Pré-requisitos
